@@ -1,6 +1,8 @@
 # Crack-and-Spalling-Dataset-in-Context-of-Extreme-Events-CrSpEE-
 This dataset is  similar  to  Common  Objects  inContext (COCO) and is generated for two major structural failure, cracks and spalling. The images in this dataset are labeled by the tool referred as the COCO Annotator. Size of the trainingand labeling images varies from 147×288 to 4600×3070. Steel structures are not included in this dataset. But it inludes surface cracks on structural or nonstructural materials at various scales, and exposion of reinforcements in spalling case.
 The original images and JSON files used for training and validation are provided here, feel free to use them for your study, but please cite this as our contribution:
+
+
 @Article{bai-2021-isprs,
 AUTHOR = {Bai, Y. and Sezen, H. and Yilmaz, A.},
 TITLE = {Detecting Cracks and Spalling Automatically in Extreme Events by End-to-end Deep Learning Frameworks},
