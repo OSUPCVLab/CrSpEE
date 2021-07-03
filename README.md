@@ -5,14 +5,13 @@ The training images and validation images needs to be merged into a train folder
 
 The original images and JSON files used for training and validation are provided here, feel free to use them for your study, but please cite this as our contribution:
 
-@Article{bai-2021-isprs,
+@Article{isprs-annals-V-2-2021-161-2021,
 AUTHOR = {Bai, Y. and Sezen, H. and Yilmaz, A.},
-TITLE = {Detecting Cracks and Spalling Automatically in Extreme Events by End-to-end Deep Learning Frameworks},
-JOURNAL = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
-VOLUME = {x-x-2020},
+TITLE = {DETECTING CRACKS AND SPALLING AUTOMATICALLY IN EXTREME EVENTS BY END-TO-END DEEP LEARNING FRAMEWORKS},
+JOURNAL = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+VOLUME = {V-2-2021},
 YEAR = {2021},
-PAGES = {xxx--xxxx},
-URL = {https://www.isprs-ann-photogramm-remote-sens-spatial-/
-inf-sci.net/x-x-2021/xxx/2021/},
-DOI = {10.5194/isprs-annals-x-x-2021-xxx-2021}
+PAGES = {161--168},
+URL = {https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-2-2021/161/2021/},
+DOI = {10.5194/isprs-annals-V-2-2021-161-2021}
 }
